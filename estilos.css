@@ -1,0 +1,67 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+
+body{
+    background-color:  rgba(91, 148, 60, 0.791);
+font-family: DM serif;
+
+
+
+}
+h1{
+
+    color:rgb(136, 161, 38); 
+    text-align: center;
+    font-family: DM serif;
+}
+ul{
+    color:   rgb(66, 110, 42);
+    background-color: rgba(122, 194, 83, 0.48);
+    font-family: DM serif;
+}
+h2{
+    background-color: white;
+    color:rgb(152, 179, 43); 
+    text-align: center;
+    font-family: DM serif;
+}
+h3{
+    background-color: white;
+    color:rgb(101, 119, 31); 
+    text-align: center;
+    font-family: DM serif;
+}
+h4{
+    background-color: white;
+    color:rgb(134, 158, 40); 
+    text-align: center;
+    font-family: DM serif;
+}
+
+
+
+
+div{
+    margin-inline-start: 2%;
+    margin-inline-end: 2%;
+}
+
+header{
+    text-align: center;
+}
+nav li{
+    display:inline-flexbox;
+}
+nav a{
+    text-decoration: none;
+   
+    padding-right: 60px;
+}
+nav a:hover{
+    color: rgba(89, 255, 0, 0.842);
+    
+}
+html{
+    scroll-behavior: smooth;
+}
